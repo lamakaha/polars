@@ -1,8 +1,0 @@
-pyproject.toml
-src/polars_snippets/functions.py
-src/polars_snippets.egg-info/PKG-INFO
-src/polars_snippets.egg-info/SOURCES.txt
-src/polars_snippets.egg-info/dependency_links.txt
-src/polars_snippets.egg-info/requires.txt
-src/polars_snippets.egg-info/top_level.txt
-tests/test_functions.py
