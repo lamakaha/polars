@@ -1,0 +1,5 @@
+polars
+
+[test]
+pytest
+numpy

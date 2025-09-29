@@ -1,0 +1,19 @@
+[project]
+name = "polars_snippets"
+version = "0.1.0"
+description = "A collection of useful Polars snippets."
+authors = [{ name = "Jules", email = "jules@example.com" }]
+requires-python = ">=3.8"
+dependencies = [
+    "polars",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+    "numpy",
+]
+
+[tool.setuptools]
+packages = ["polars_snippets"]
+package-dir = { "" = "src" }
